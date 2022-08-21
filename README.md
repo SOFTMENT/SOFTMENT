@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SOFTMENT
-- 👀 I’m interested in mobile app development.
+- 👀 I’m interested in mobile and web app development.
 - 🌱 I’m currently learning Flutter.
-- 📫 How to reach me support@softment.in
+- 📫 Reach me support@softment.in
 
 <!---
 SOFTMENT/SOFTMENT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
